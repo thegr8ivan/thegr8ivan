@@ -28,15 +28,7 @@ Here’s what’s always open on my desk (aside from my coffee cup):
 - 🖥️ Projects I’ve built from scratch because *why not?*  
 - 🛠️ Fixing bugs and pretending I wrote the code right the first time.  
 - 🌟 Having fun with coding challenges .  
-
----
-
-## ⚡ Fun Facts  
-- I have a love-hate relationship with semicolons (`;`)—I think we all do.  
-- The "Rubber Duck Debugging" method? Yep, I’ve explained my code to my coffee mug.  
-- My version of “Netflix and chill” is “console.log and debug.”  
-
-
+ 
 
 ### Thanks for stopping by, and remember: **Life’s too short to write boring code.**  
 
